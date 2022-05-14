@@ -1,0 +1,17 @@
+1. add-tasks button -ni js -ga chaqirdim
+
+2. form-input -ni js -ga chaqirdim
+
+3. new-tasks -ni js -ga chaqirdim
+
+4. addTasks ga addEventListener click hodisasini qowdim
+
+5. button ga type="button" yozdim
+
+6. click hodisani ichiga formInput ni yozdim
+
+7. let tasks = [] bo'sh massiv ochdim
+
+8. click hodisani ichiga tasks.push(formInput.value) yozdim bunda inputga yozgan narsalarimiz massivga olinadi
+
+9. Task nomli funksiya ochdim
